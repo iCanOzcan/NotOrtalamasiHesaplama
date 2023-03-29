@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class AveragePoint {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
     Scanner input = new Scanner(System.in);
     int mat,kimya,fizik,tarih,muzik;
 
